@@ -3,7 +3,7 @@
 site_name: Projeto de Software Ágil
 
 theme:
-  name: active-handout
+  name: theme: jekyll-theme-minimal
   language: pt
   features:
     - navigation.tabs
