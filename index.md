@@ -12,6 +12,5 @@ Nesta página será compartilhado o material de cada aula da profe Grazi em proj
 
 #### Redes Sociais
 
-[Linkedin](linkedin.com/in/grazielatonin) and ![Image](src)
-
-[Instagram](https://www.instagram.com/grazielatonin/) and ![Image](src)
+[Linkedin](https://www.linkedin.com/in/grazielatonin)  
+[Instagram](https://www.instagram.com/grazielatonin/) 
