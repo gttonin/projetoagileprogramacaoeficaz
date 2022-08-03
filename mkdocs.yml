@@ -18,8 +18,8 @@ theme:
     primary: brown
     accent: amber
 
-docs_dir: material
-site_dir: docs
+docs_dir: aulas
+site_dir: projetodesoftwareagil
 
 repo_url: https://github.com/gttonin/projetodesoftwareagil/
 repo_name: "sistemashardwaresoftware"
