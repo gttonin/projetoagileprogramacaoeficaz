@@ -21,7 +21,7 @@ theme:
 docs_dir: aulas
 site_dir: docs
 
-repo_name: 'gttonin/projetodesoftwareagil'
+repo_name: 'projetodesoftwareagil'
 repo_url: 'https://github.com/gttonin/projetodesoftwareagil/'
 site_url: 'https://gttonin.github.io/projetodesoftwareagil/'
 # edit_uri: 'https://github.com/gttonin/projetodesoftwareagil/aulas/'
