@@ -17,5 +17,5 @@ Nesta página será compartilhado o material das aulas de projeto ágil e progra
 #### Redes Sociais
 
 - Graziela Tonin
-- [Linkedin](https://www.linkedin.com/in/grazielatonin)  
-- [Instagram](https://www.instagram.com/grazielatonin/) 
+  - [Linkedin](https://www.linkedin.com/in/grazielatonin)  
+  - [Instagram](https://www.instagram.com/grazielatonin/) 
