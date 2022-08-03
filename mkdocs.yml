@@ -21,9 +21,10 @@ theme:
 docs_dir: aulas
 site_dir: docs
 
-repo_url: https://github.com/gttonin/projetodesoftwareagil/
-repo_name: "projeto_agil_e_programacao_eficaz"
-site_url: https://github.com/gttonin/projetodesoftwareagil/
+repo_name: 'gttonin/projetodesoftwareagil'
+repo_url: 'https://github.com/gttonin/projetodesoftwareagil/'
+site_url: 'https://github.com/gttonin/projetodesoftwareagil/'
+
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
