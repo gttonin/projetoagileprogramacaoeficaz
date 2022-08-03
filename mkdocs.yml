@@ -19,7 +19,7 @@ theme:
     accent: amber
 
 docs_dir: aulas
-site_dir: docs
+site_dir: aulas
 
 repo_name: 'gttonin/projetodesoftwareagil'
 repo_url: 'https://github.com/gttonin/projetodesoftwareagil/'
