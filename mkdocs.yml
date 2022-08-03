@@ -1,11 +1,11 @@
 
 
-site_name: Projeto de Software Ágil
+site_name: Projeto de Software Ágil e Programação Eficaz
 
 
 
 extra:
-    materia: Projeto de Software Ágil
+    materia: Projeto de Software Ágil e Programação Eficaz
     professor: Graziela, Fabio, Tiago e Eduardo
     semestre: 2022/2
 
@@ -19,7 +19,7 @@ theme:
     accent: amber
 
 docs_dir: aulas
-site_dir: projetodesoftwareagil
+site_dir: aulas
 
 repo_url: https://github.com/gttonin/projetodesoftwareagil/
 repo_name: "sistemashardwaresoftware"
