@@ -92,7 +92,7 @@ markdown_extensions:
 
 nav:
     - Home: index.md
-    - Teste: sobre.md
+    - Teste: material.md
 
   
        
