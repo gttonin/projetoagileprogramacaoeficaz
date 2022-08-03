@@ -24,6 +24,7 @@ site_dir: aulas
 repo_name: 'gttonin/projetodesoftwareagil'
 repo_url: 'https://github.com/gttonin/projetodesoftwareagil/'
 site_url: 'https://github.com/gttonin/projetodesoftwareagil/'
+edit_uri: 'https://github.com/gttonin/projetodesoftwareagil/aulas/'
 
 
 extra_javascript:
