@@ -1,11 +1,11 @@
 
 
-site_name: Projeto Ágil e Programação Eficaz
+site_name: Projeto de Software Ágil e Programação Eficaz
 
 
 
 extra:
-    materia: Projeto Ágil e Programação Eficaz
+    materia: Projeto de Software Ágil e Programação Eficaz
     professor: Eduardo, Fabio Graziela e Tiago.
     semestre: 2022/2
 
@@ -21,10 +21,10 @@ theme:
 docs_dir: aulas
 site_dir: docs
 
-repo_name: 'projetoagileprogramacaoeficaz'
-repo_url: 'https://github.com/gttonin/projetoagileprogramacaoeficaz/'
-site_url: 'https://gttonin.github.io/projetoagileprogramacaoeficaz/'
-# edit_uri: 'https://github.com/gttonin/projetoagileprogramacaoeficaz/aulas/'
+repo_name: 'projetodesoftwareagil'
+repo_url: 'https://github.com/gttonin/projetodesoftwareagil/'
+site_url: 'https://gttonin.github.io/projetodesoftwareagil/'
+# edit_uri: 'https://github.com/gttonin/projetodesoftwareagil/aulas/'
 
 
 extra_javascript:
@@ -92,7 +92,8 @@ markdown_extensions:
 
 nav:
     - Home: index.md
-    - Teste: material.md
+    - Engenharia de software: conteúdo/es.md
+    
 
   
        
