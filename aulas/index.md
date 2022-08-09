@@ -5,14 +5,17 @@ Nesta página será compartilhado o material das aulas de projeto ágil e progra
 ### Professores
 
 - Eduardo.
-- Fabio Miranda.
-- Graziela Tonin.
+- Fabio Roberto de Miranda.
+- Graziela Simone Tonin.
 - Tiago.
 
 
 ### Contatos
 
-  grazielast@insper.edu.br & gttonin@gmail.com
+  - E-mail do professor Eduardo
+  - E-mail do professor Fabio: fabiomiranda@insper.edu.br
+  - E-mail da professora Graziela: grazielast@insper.edu.br & gttonin@gmail.com
+  - E-mail do professor Tiago:
 
 #### Redes Sociais
 
